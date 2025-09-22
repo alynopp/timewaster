@@ -1,2 +1,2 @@
 def run():
-    print("commands: help, echo...")
+    print("> commands: help, clear, echo, apps")
